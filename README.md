@@ -1,4 +1,2 @@
-cs241
-=====
-
-UIUC CS241 Course-specific materials
+You probably want to read the wiki ...
+https://github.com/angrave/SystemProgramming/wiki
